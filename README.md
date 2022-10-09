@@ -1,10 +1,10 @@
 
 
 - Developer
-- 
+
 - ZycsCF, 16 y/o from Greece.
 
-- 💻 Currently Learning (https://skillicons.dev/icons?i=cpp,unreal)
+- 💻 Currently Learning ![Learning](https://skillicons.dev/icons?i=cpp,unreal)
 
 - :mailbox: Discord: zycs.cc#0022, Website: https://zycs.shop
 
