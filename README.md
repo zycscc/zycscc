@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
-</div>
+
 
 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -17,7 +15,9 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 
 
-![Zycs's GitHub stats](https://github-readme-stats.vercel.app/api?username=zycscf&show_icons=true&theme=fffefe)
+<div align="center">
+  <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
+</div>
 
 
 
