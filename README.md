@@ -10,7 +10,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 - :mailbox: Discord: zycs.cc#0022, Website: https://zycs.shop
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,cpp,cs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,cpp,cs)](https://skillicons.dev)
 
 
 
