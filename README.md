@@ -1,8 +1,7 @@
 
 
-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
+- Developer
+- 
 - ZycsCF, 16 y/o from Greece.
 
 - :seedling: I'm currently Learning C++ and QT.
