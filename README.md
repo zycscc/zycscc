@@ -15,7 +15,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
 </div>
 
