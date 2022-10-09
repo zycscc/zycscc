@@ -4,7 +4,7 @@
 
 - ZycsCF, 16 y/o from Greece.
 
-- 💻 Currently Learning ![Learning](https://skillicons.dev/icons?i=cpp,unreal)
+- 💻 Currently Learning C++
 
 - :mailbox: Discord: zycs.cc#0022, Website: https://zycs.shop
 
