@@ -1,8 +1,5 @@
-<iframe src="https://giphy.com/embed/YFkpsHWCsNUUo" width="480" height="436" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YFkpsHWCsNUUo"></a></p>
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="600" height="300"/>
 </div>
 
 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
