@@ -1,8 +1,4 @@
-
-
-- Developer
-
-- ZycsCF, 16 y/o from Greece.
+- ZycsCF, 16 y/o Scripter from Greece.
 
 - 💻 Currently Learning C++
 
