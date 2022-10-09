@@ -9,7 +9,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 - :seedling: I'm currently Learning C++ and QT.
 
-- :mailbox: How to reach me: FloppaDaddy#1337 or discord.gg/agentproject
+- :mailbox: Discord: zycs.cc#0022, Website: https://zycs.shop
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cpp,cs)](https://skillicons.dev)
