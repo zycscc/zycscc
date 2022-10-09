@@ -17,7 +17,7 @@ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 
 
-![Zycs's GitHub stats](https://github-readme-stats.vercel.app/api?username=zycs&show_icons=true&theme=fffefe)
+![Zycs's GitHub stats](https://github-readme-stats.vercel.app/api?username=zycscf&show_icons=true&theme=fffefe)
 
 
 
