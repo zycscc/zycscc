@@ -2,7 +2,7 @@
 
 - 💻 Currently Learning C++
 
-- :mailbox: Discord: zycs.cc#0022, Website: https://zycs.shop
+- :mailbox: Discord: zycs#0207, Website: https://zycs.shop
 
 
 ![My Languages](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,cpp,cs,net)
