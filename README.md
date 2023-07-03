@@ -1,11 +1,11 @@
 - Zycs, 17 y/o Scripter from Greece.
 
-- 💻 Currently Learning C++
+- 💻 Currently Learning C.
 
 - :mailbox: Discord: @zycs.
 
 
-![My Languages](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,cpp,cs,net)
+![My Languages](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,cpp,cs,net,c)
 
 
 
