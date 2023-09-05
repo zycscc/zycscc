@@ -1,4 +1,4 @@
-- Zycs, 17 y/o Scripter from Greece.
+- Zycs, coder from Greece.
 
 - 💻 Currently Learning C.
 
