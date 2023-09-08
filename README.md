@@ -10,10 +10,6 @@
 
 
 
-<div align="left">
-  <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
-</div>
-
 
 
 <!---
